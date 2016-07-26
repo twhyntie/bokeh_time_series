@@ -1,2 +1,5 @@
 #Python
 *.py[o,c]
+
+#Notebook
+.ipynb_checkpoints/
